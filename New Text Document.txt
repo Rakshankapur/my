@@ -1,0 +1,23 @@
+<html>
+<head>
+  <style>
+    /* Set text color to blue */
+    body {
+      color: blue;
+    }
+    /* Set background color to yellow */
+    body {
+      background-color: yellow;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Contact Us</h1>
+
+<p>Email: info@example.com</p>
+<p>Phone: 555-555-5555</p>
+<p>Address: 123 Main St, Anytown USA 12345</p>
+
+</body>
+</html>
